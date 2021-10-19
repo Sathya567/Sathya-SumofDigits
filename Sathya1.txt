@@ -1,0 +1,12 @@
+console.Writeline{"Enter the number"}
+int number = Int.Parse(Console.ReadLine);
+int sum = o;remainder; 
+sum = n;                              56 % 10 
+
+while(n>0)
+{
+remainder = number % 10;
+sum = sum + remainder;                          
+number = number /10;
+}
+Console.Writeline("Sum of digits : " is {sum})
